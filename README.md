@@ -1,6 +1,6 @@
 # Colección de Plantillas de README de Perfiles de GitHub
 
-![Header Image](https://imgur.com/a/7efNF6p)
+![Header Image](https://imgur.com/OCajrNy)
 
 [![Youtube](https://img.shields.io/badge/YouTube-Ziver05-red?logo=youtube)](https://www.youtube.com/@Ziver05)
 [![Twitter](https://img.shields.io/badge/Twitter-@Ziver05-blue?logo=twitter)](https://x.com/MathiasSar3679)
