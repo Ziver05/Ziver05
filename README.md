@@ -1,5 +1,3 @@
-# Colección de Plantillas de README de Perfiles de GitHub
-
 <div align="center">
 
 ## **<span style="text-transform: uppercase;"> ¡ Hola, soy <a href="https://github.com/Ziver05" style="color: #00BFFF; text-decoration: none;">Ziver05</a>!</span>**
