@@ -2,7 +2,7 @@
 
 ## **<span style="text-transform: uppercase;"> ¡ Hola, soy <a href="https://github.com/Ziver05" style="color: #00BFFF; text-decoration: none;">Ziver05</a>!</span>**
 
-![Header Image](https://imgur.com/gallery/profesional-MLRbxAv)
+![Header Image](https://imgur.com/QStmAIq)
 
 [![Youtube](https://img.shields.io/badge/YouTube-Ziver05-red?logo=youtube)](https://www.youtube.com/@Ziver05)
 [![Twitter](https://img.shields.io/badge/Twitter-@Ziver05-blue?logo=twitter)](https://x.com/MathiasSar3679)
